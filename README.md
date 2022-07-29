@@ -1,0 +1,2 @@
+# Telecom_Customer_Churn_Analysis
+This analysis was conducted as a part of the Maven Analytics Monthly challenge for July, 2022. The objective was to submit a one-page report identifying High Value customers for a telecom company and to figure out what are the customer churn risks. You can discover entries and discussions about the challenge on LinkedIn using #mavenchurnchallenge.  And the dataset can be downloaded from: https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip
